@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD45720048C27D4289F7A33BBA7984FE2D8F6980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "DD45720048C27D4289F7A33BBA7984FE2D8F6980" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD45720048C27D4289F7A33BBA7984FE2D8F6980" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2DECAB2E-164D-4CAD-AD76-AE2C4048937C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD45720048C27D4289F7A33BBA7984FE2D8F6980" : "Curly\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Curly",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Curly.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.inpossoft.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD45720048C27D4289F7A33BBA7984FE2D8F6980"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:inpossoft\/Curly.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD45720048C27D4289F7A33BBA7984FE2D8F6980"
+    }
+  ]
+}
